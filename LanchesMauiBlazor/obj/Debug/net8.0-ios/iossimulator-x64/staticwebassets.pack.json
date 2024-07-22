@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BACKUP\\!!ESTUDOS\\C#\\BlazorRenderModes\\BlazorRenderModeExamples\\LanchesMauiBlazor\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\LanchesMauiBlazor.styles.css",
+      "PackagePath": "staticwebassets\\LanchesMauiBlazor.styles.css"
+    },
+    {
+      "Id": "D:\\BACKUP\\!!ESTUDOS\\C#\\BlazorRenderModes\\BlazorRenderModeExamples\\LanchesMauiBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\BACKUP\\!!ESTUDOS\\C#\\BlazorRenderModes\\BlazorRenderModeExamples\\LanchesMauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BACKUP\\!!ESTUDOS\\C#\\BlazorRenderModes\\BlazorRenderModeExamples\\LanchesMauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BACKUP\\!!ESTUDOS\\C#\\BlazorRenderModes\\BlazorRenderModeExamples\\LanchesMauiBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\BACKUP\\!!ESTUDOS\\C#\\BlazorRenderModes\\BlazorRenderModeExamples\\LanchesMauiBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.LanchesMauiBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.LanchesMauiBlazor.props",
+      "PackagePath": "build\\LanchesMauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.LanchesMauiBlazor.props",
+      "PackagePath": "buildMultiTargeting\\LanchesMauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.LanchesMauiBlazor.props",
+      "PackagePath": "buildTransitive\\LanchesMauiBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

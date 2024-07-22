@@ -1,0 +1,1 @@
+D:\BACKUP\!!ESTUDOS\C#\BlazorRenderModes\BlazorRenderModeExamples\LanchesMauiBlazor\LanchesMauiBlazor.csproj;x64

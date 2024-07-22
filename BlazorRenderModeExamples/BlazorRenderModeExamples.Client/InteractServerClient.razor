@@ -1,0 +1,24 @@
+﻿@page "/demo"
+@rendermode InteractiveAuto
+
+<h3>Interação tempo real usuário servidor</h3>
+<br/>
+
+<input type="text" value="@inputValue" @oninput="UpdateValue" />
+<button @onclick="InputValue">Salvar</button>
+<br />
+<br />
+<h3>O valor informado é : @Value</h3>
+
+@code {
+    public string? Value {get;set;}
+    private string? inputValue;
+
+    private void UpdateValue(ChangeEventArgs e) => inputValue = e.Value.ToString();
+    private void InputValue()
+    {
+        Value = inputValue;
+        StateHasChanged();
+    }
+
+}
